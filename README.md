@@ -16,13 +16,11 @@ o = omohundro(img, 4);
 figure; imshow(uint8(o));
 ```
 
-<div>
-    <div style="display:inline-block">
-        <img src="floydsteinberg.png" width="256px">
-        <div align="center"><code>imshow(uint8(f))</code></div>
-    </div>
-    <div style="display:inline-block">
-        <img src="omohundro.png" width="256px">
-        <div align="center"><code>imshow(uint8(o))</code></div>
-    </div>
-</div>
+<p align="center">
+  <img width="256" src="floydsteinberg.png">
+  <img width="256" src="omohundro.png">
+</p>
+
+> `imshow(uint8(f))` (left)
+>
+> `imshow(uint8(o))` (right)
