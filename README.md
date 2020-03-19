@@ -16,6 +16,5 @@ o = omohundro(img, 4);
 figure; imshow(uint8(o));
 ```
 
-`Floyd-Steinberg` | `Omohundro`
-----|----
-![](floydsteinberg.png) | ![](omohundro.png)
+![](floydsteinberg.png) <br> Floyd-Steinberg | ![](omohundro.png) <br> Omohundro
+:----:|:----:
