@@ -16,13 +16,6 @@ o = omohundro(img, 4);
 figure; imshow(uint8(o));
 ```
 
-<div>
-    <div style="display:inline-block">
-        <img src="floydsteinberg.png" width="256px">
-        <div align="center"><code>imshow(uint8(f))</code></div>
-    </div>
-    <div style="display:inline-block">
-        <img src="omohundro.png" width="256px">
-        <div align="center"><code>imshow(uint8(o))</code></div>
-    </div>
-</div>
+`Floyd-Steinberg` | `Omohundro`
+----|----
+![](floydsteinberg.png) | ![](omohundro.png)
